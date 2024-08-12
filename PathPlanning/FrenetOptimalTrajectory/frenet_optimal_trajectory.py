@@ -23,7 +23,7 @@ import pathlib
 sys.path.append(str(pathlib.Path(__file__).parent.parent))
 
 from QuinticPolynomialsPlanner.quintic_polynomials_planner import \
-    QuinticPolynomial
+    QuinticPolynomial  #导入局部导航规划方法
 from CubicSpline import cubic_spline_planner
 
 SIM_LOOP = 500

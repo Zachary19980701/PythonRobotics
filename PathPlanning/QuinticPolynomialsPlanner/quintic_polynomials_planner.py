@@ -5,7 +5,7 @@ Quintic Polynomials Planner
 author: Atsushi Sakai (@Atsushi_twi)
 
 Ref:
-
+局部导航规划方法
 - [Local Path planning And Motion Control For Agv In Positioning](http://ieeexplore.ieee.org/document/637936/)
 
 """
